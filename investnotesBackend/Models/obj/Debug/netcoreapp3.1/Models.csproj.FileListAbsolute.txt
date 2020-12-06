@@ -1,0 +1,9 @@
+C:\DEVELOP\investnotes\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\DEVELOP\investnotes\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\DEVELOP\investnotes\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\DEVELOP\investnotes\Models\obj\Debug\netcoreapp3.1\Models.pdb

@@ -1,0 +1,15 @@
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\Models.dll
+C:\DEVELOP\investnotes\DataAccess\bin\Debug\netcoreapp3.1\Models.pdb
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\DEVELOP\investnotes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
